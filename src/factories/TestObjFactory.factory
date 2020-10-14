@@ -1,0 +1,2 @@
+prototype: "/src/objects/TestObj.go"
+load_dynamically: false
